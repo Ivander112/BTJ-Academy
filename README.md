@@ -35,11 +35,11 @@ Untuk melihat IP Address container gunakan command di atas lalu scroll ke bawah 
 
 ## Hasil Percobaan
 
-IP address dari container whoami adalah: 172.17.0.2
-IP address dari container whoami_ivanderiaw :
+IP address dari container whoami adalah: 172.17.0.2 <br />
+IP address dari container whoami_ivanderiaw : 172.17.0.5
 
-adawd
+File Hidden
 
-image yang digunakan pada container whoami : secret:aequaix9De6dii1ay4HeeWai2obie6Ei
+image yang digunakan pada container whoami : secret:aequaix9De6dii1ay4HeeWai2obie6Ei <br />
 image yang digunakan pada container whoami_ivanderiaw : ubuntu:by_ivanderiaw
 
