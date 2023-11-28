@@ -1,6 +1,6 @@
 all:
   vars:
-    port_u: 4321
+    image_u: ubuntu:latest
   host:
-    containare-ivan:
+    container-test-i:
       ansible-host: 10.184.0.100
