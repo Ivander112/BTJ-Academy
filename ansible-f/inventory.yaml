@@ -1,0 +1,6 @@
+all:
+  vars:
+    port_u: 4321
+  host:
+    containare-ivan:
+      ansible-host: 10.184.0.100

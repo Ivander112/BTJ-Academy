@@ -1,0 +1,10 @@
+name : menjalankan container ubuntu
+host : containare-ivan
+become: true
+task:
+  - docker-containare:
+      name: ubuntu-ansible_i
+      image: ubuntu:latest
+      interactive: true
+      tty: true
+      exposed_ports: {{port_u}}
