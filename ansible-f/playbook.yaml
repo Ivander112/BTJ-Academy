@@ -1,6 +1,6 @@
   - name: uji coba menjalankan docker container
     hosts: container-test-i
-    become: true
+    become: false
     tasks:
     - docker_container:
         name: ubuntu-ansible
