@@ -3,7 +3,7 @@
     become: false
     tasks:
     - docker_container:
-        name: ubuntu-ansible
+        name: ubuntu-ivan
         image: "{{image_u}}"
         interactive: true
         tty: true
